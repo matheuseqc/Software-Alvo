@@ -1,13 +1,13 @@
 # PROJETO CALCULADORA (GQSO 924 )
 
 ESSE SERÁ O PROJETO PARA O DESENVOLVIMENTO DO SOFTWARE ALVO (CALCULADORA API) DA DISCIPLINA DE GQSO .
-#🚀 Começando
+# 🚀 Começando
 
 # ✒️ Autores
  - Matheus de Melo  - Trabalho Inicial; 
  - Colaboradores - .
  -
-#🛠️ Construído com:
+# 🛠️ Construído com:
 Ferramentas: 
 
 # 📄 Licença
